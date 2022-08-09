@@ -1,4 +1,4 @@
-package com;
+package com.boj;
 
 import java.util.*;
 
