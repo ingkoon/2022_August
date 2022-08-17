@@ -15,10 +15,14 @@ public class Main_13305 {
             city = new int[n];
         }
 
+        int cnt = 0;
+        int result = 0;
         for (int i = 0; i < n-1; i++) {
             if(city[i] > city[i+1]){
-
+                result += city[i] * lengths[i];
+                continue;
             }
+
         }
     }
 }
