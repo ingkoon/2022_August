@@ -48,5 +48,4 @@ public class Main_10971 {
         }
         return true;
     }
-
 }
